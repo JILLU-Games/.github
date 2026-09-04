@@ -1,10 +1,10 @@
 <!-- JILLU Games organization profile -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JILLU-Games/.github/main/assets/JILLU-Games-github-banner.png" width="100%" alt="JILLU Games — open-source game technology">
+  <img src="./JILLU-Games-github-banner.png" width="100%" alt="JILLU Games — open-source game technology">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JILLU-Games/.github/main/assets/JILLU-LOGO.png" width="220" alt="JILLU Games logo">
+  <img src="./JILLU-LOGO.png" width="220" alt="JILLU Games logo">
 </p>
 
 <h1 align="center">Welcome to JILLU Games</h1>
